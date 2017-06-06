@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Mshowcon" value="name:Cono;datatype:varchar,name:Cocapa;datatype:varchar,name:Cosite;datatype:varchar" />
+</info>

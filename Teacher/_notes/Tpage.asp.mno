@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tea" value="name:Tname;datatype:varchar,name:Tno;datatype:varchar,name:Tpassword;datatype:varchar,name:Tiphone;datatype:varchar" />
+	<infoitem key="UD_tealogo" value="name:Lido;datatype:int,name:Lperso;datatype:varchar,name:Lroomo;datatype:varchar,name:Ltimeo;datatype:varchar,name:Ldateo;datatype:varchar,name:Lsuageo;datatype:varchar,name:Lnote;datatype:varchar" />
+	<infoitem key="UD_teawaito" value="name:id;datatype:int,name:Wperso;datatype:varchar,name:Wroomo;datatype:varchar,name:Wtimeo;datatype:varchar,name:Wdateo;datatype:varchar,name:Wsuageo;datatype:varchar,name:Wnoteo;datatype:varchar" />
+</info>

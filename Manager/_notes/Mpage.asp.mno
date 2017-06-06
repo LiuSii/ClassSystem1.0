@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Mpage" value="name:Mname;datatype:varchar,name:Mno;datatype:varchar,name:Mpassword;datatype:varchar,name:Miphone;datatype:varchar" />
+	<infoitem key="UD_Mstudent" value="name:Sname;datatype:varchar,name:Sno;datatype:varchar,name:Spassword;datatype:varchar,name:Siphone;datatype:varchar" />
+	<infoitem key="UD_Mteacher" value="name:Tname;datatype:varchar,name:Tno;datatype:varchar,name:Tpassword;datatype:varchar,name:Tiphone;datatype:varchar" />
+	<infoitem key="UD_Mclassroom" value="name:Clno;datatype:varchar,name:Clcapa;datatype:varchar,name:Clsite;datatype:varchar" />
+	<infoitem key="UD_Mconference" value="name:Cono;datatype:varchar,name:Cocapa;datatype:varchar,name:Cosite;datatype:varchar" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:per;datatype:varchar,name:action;datatype:varchar,name:time;datatype:varchar" />
+</info>

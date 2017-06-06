@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Sregister" value="name:Sname;datatype:varchar,name:Sno;datatype:varchar,name:Spassword;datatype:varchar" />
+</info>

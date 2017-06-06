@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_update" value="name:Sname;datatype:varchar,name:Sno;datatype:varchar,name:Spassword;datatype:varchar,name:Siphone;datatype:varchar" />
+	<infoitem key="UD_stuupdate" value="name:Sname;datatype:varchar,name:Sno;datatype:varchar,name:Spassword;datatype:varchar,name:Siphone;datatype:varchar" />
+</info>

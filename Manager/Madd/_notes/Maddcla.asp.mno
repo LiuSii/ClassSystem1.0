@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Maddcla" value="name:Clno;datatype:varchar,name:Clcapa;datatype:varchar,name:Clsite;datatype:varchar" />
+	<infoitem key="UD_Recordset1" value="name:Lpers;datatype:varchar,name:Lroom;datatype:varchar,name:Ltime;datatype:varchar,name:Ldate;datatype:varchar,name:Lusage;datatype:varchar,name:Lnote;datatype:varchar" />
+</info>

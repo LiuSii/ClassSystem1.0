@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_MaddMan" value="name:Mname;datatype:varchar,name:Mno;datatype:varchar,name:Mpassword;datatype:varchar,name:Miphone;datatype:varchar" />
+</info>

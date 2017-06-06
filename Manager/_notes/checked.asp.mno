@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_wait_log" value="name:id;datatype:int,name:Wpers;datatype:varchar,name:Wroom;datatype:varchar,name:Wtime;datatype:varchar,name:Wdate;datatype:varchar,name:Wsuage;datatype:varchar,name:Wnote;datatype:varchar" />
+</info>

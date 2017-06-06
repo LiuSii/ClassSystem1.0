@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_stu" value="name:Sname;datatype:varchar,name:Sno;datatype:varchar,name:Spassword;datatype:varchar,name:Siphone;datatype:varchar" />
+	<infoitem key="UD_stulog" value="name:Lid;datatype:int,name:Lpers;datatype:varchar,name:Lroom;datatype:varchar,name:Ltime;datatype:varchar,name:Ldate;datatype:varchar,name:Lusage;datatype:varchar,name:Lnote;datatype:varchar" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:Wpers;datatype:varchar,name:Wroom;datatype:varchar,name:Wtime;datatype:varchar,name:Wdate;datatype:varchar,name:Wsuage;datatype:varchar,name:Wnote;datatype:varchar" />
+</info>

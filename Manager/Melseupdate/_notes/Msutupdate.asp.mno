@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Mupdatestu" value="name:Sname;datatype:varchar,name:Sno;datatype:varchar,name:Spassword;datatype:varchar,name:Siphone;datatype:varchar" />
+</info>

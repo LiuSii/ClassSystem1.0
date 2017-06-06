@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Mshowtea" value="name:Tname;datatype:varchar,name:Tno;datatype:varchar,name:Tpassword;datatype:varchar,name:Tiphone;datatype:varchar" />
+</info>
